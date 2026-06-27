@@ -329,4 +329,6 @@ redis-cli -h 127.0.0.1 -p 6379 PING
 
 ## 许可
 
-基于 [JMComic-Crawler-Python](https://github.com/hect0x7/JMComic-Crawler-Python) 的 PHP 移植。
+ MIT license | 基于 [JMComic-Crawler-Python](https://github.com/hect0x7/JMComic-Crawler-Python) 的 PHP 移植。
+
+_感谢 [JMComic-Crawler-Python](https://github.com/hect0x7/JMComic-Crawler-Python)_
